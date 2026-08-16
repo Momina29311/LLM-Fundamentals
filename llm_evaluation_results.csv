@@ -1,0 +1,18 @@
+Prompt,Output,Accuracy,Relevance,Faithfulness,Hallucination Control,Consistency,Latency,Cost,Overall Score
+Explain overfitting in machine learning to a beginner.,"Overfitting happens when a machine learning model memorizes the training data instead of learning general patterns. It may perform very well on training data but poorly on new, unseen data.
+For example, a model might memorize the exact training examples instead of learning the general relationship between the input and output. Using more training data, simpler models, regularization, and validation techniques can help reduce overfitting.",5,5,5,5,4,1.2,0.002,4.8
+Write Python code to calculate the mean of a list.,"numbers = [10, 20, 30, 40, 50]
+mean = sum(numbers) / len(numbers)
+print(mean)",5,5,5,5,5,0.8,0.0015,5.0
+Write Python code to calculate the mean of a list.,"numbers = [10, 20, 30, 40, 50]
+mean = sum(numbers) / len(numbers)
+print(mean)
+",5,5,5,5,5,0.8,0.0015,5.0
+Write Python code to calculate the mean of a list.,"numbers = [10, 20, 30, 40, 50]
+mean = sum(numbers) / len(numbers)
+print(mean)
+",5,3,3,4,4,0.8,0.0015,3.8
+Write Python code to calculate the mean of a list.,"numbers = [10, 20, 30, 40, 50]
+mean = sum(numbers) / len(numbers)
+print(mean)
+",5,5,5,5,5,0.8,0.0015,5.0
